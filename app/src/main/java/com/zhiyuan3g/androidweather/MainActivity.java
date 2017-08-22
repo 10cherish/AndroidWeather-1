@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //这是我的第一行代码。
+        //这是我的第二行代码。
+        //这是我的第三行代码。
         //伊呀伊呦咪，新城已无旧少年。jjy
         Toast.makeText(this, "阿吉咯", Toast.LENGTH_SHORT).show();
     }
