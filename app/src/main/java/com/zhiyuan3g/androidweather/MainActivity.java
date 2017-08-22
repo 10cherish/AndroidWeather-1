@@ -12,7 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //这是我的第一行代码。
         //这是我的第二行代码。
         //这是我的第三行代码。
-        //伊呀伊呦咪，新城已无旧少年。
-
+        //这是我的第四行代码。
     }
 }
